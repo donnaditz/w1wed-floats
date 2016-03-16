@@ -1,0 +1,16 @@
+img.small-photo{
+  width: 12%;
+  float:left;
+}
+.sidebar{
+  float: left;
+}
+.column{
+  width: 250px;
+  float:left;
+  text-align: justify;
+  padding-left: 10px;
+}
+.indent{
+  margin-left: 200px;
+}
