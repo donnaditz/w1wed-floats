@@ -1,9 +1,14 @@
 img.small-photo{
   width: 12%;
   float:left;
+  padding: 3px;
 }
 .sidebar{
-  float: left;
+  float: right;
+  background-color: #ffbf80;
+  padding: 4px;
+  border: 2px solid #00e673;
+  margin: 5px;
 }
 .column{
   width: 250px;
